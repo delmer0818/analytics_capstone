@@ -14,3 +14,5 @@ In the second week, you will perform some predictive analytics tasks, including 
 Beginning in the third week, we turn our attention to prescriptive analytics, where you will provide some concrete suggestions on how to allocate investment funds using analytics tools, including clustering and simulation based optimization. You will see that allocating funds wisely is crucial for the financial return of the investment portfolio.
 
 In the last week, you are expected to present your analytics results to your clients. Since you will obtain many results in your project, it is important for you to judiciously choose what to include in your presentation. You are also expected to follow the principles we covered in the courses in preparing your presentation.
+
+https://www.coursera.org/account/accomplishments/specialization/certificate/GKYXJV95X3LR
